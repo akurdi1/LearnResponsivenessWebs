@@ -26,6 +26,7 @@ body{
     font-size: 50px;
     font-weight: bold;
     color: rgb(51, 136, 136);
+    background-color: rgb(206, 204, 204);
     box-shadow: 8px 9px 15px -1px  black;
 }
 .p2{
